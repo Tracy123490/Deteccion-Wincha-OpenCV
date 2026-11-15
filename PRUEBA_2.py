@@ -1,0 +1,9 @@
+import cv2
+print(
+    
+    hasattr(
+        cv2,
+        "CascadeClassifier"
+        )
+    )
+    
