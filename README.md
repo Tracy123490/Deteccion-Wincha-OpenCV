@@ -2,7 +2,6 @@
 Sistema de detección de una wincha mediante visión artificial utilizando Python y OpenCV.
 
 # 1. Descripción del proyecto
-
 El presente proyecto tiene como finalidad desarrollar un sistema de detección de una wincha mediante técnicas de visión artificial, utilizando Python y la biblioteca OpenCV. Para la captura de imágenes se empleó DroidCam, mientras que el entrenamiento del clasificador se realizó mediante Cascade Trainer GUI. El sistema permite identificar visualmente la presencia de una wincha a partir de imágenes capturadas por una cámara y delimitar su ubicación dentro del fotograma.
 
 # 2. Objetivos
